@@ -48,3 +48,17 @@ so you don't have to constantly press Attack, etc.
 
 You could view the world through different goggles: text, Sexpr, XML,
 etc.
+
+If you opened yourself up to PvP, then you got double XP. If you beat
+someone in PvP, they drop their XP. (Same with monsters. XP is totally
+tradeable.)
+
+You can see a map of where you have been, but nowhere else.
+
+Areas have random effects that will have to be discovered and written
+down in marks by other players.
+
+Mobs have affinities that are randomly related to their room,
+etc. Each adjoining room has an affinity related to those around it
+with a random change. The idea is to create contiguous blocks of
+"fire" rooms that gradually become lava, then earth. Etc.
